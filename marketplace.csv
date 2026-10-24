@@ -1,0 +1,218 @@
+name,category,avg_ask,min_ask,max_ask,listings,avg_buy
+Carinite (Pure),Harvestables,17100000,1,22500000,54,12900000
+Carinite,Harvestables,3300000,25000,30000000,123,4900000
+Hadanite,Harvestables,2000000,1,50000000,62,3900000
+Sadaryx,Harvestables,4400000,15000,15000000,63,4700000
+Feynmaline,Harvestables,285300,2000,4000000,52,46700
+Janalite,Harvestables,842100,5000,3200000,38,9300000
+Dolivine,Harvestables,994400,4000,10000000,63,1000000
+Aphorite,Harvestables,356300,475,2000000,60,785000
+Beradom,Harvestables,272900,5000,1000000,25,50000
+Saldynium,Harvestables,525700,30000,1500000,16,110000
+Jaclium,Harvestables,964300,100000,2500000,10,17500
+Glacosite,Harvestables,247300,25000,1000000,26,0
+Stileron,Commodities,7300000,120000,25000000,38,0
+Iron,Commodities,8800000,60000,35000000,25,0
+Titanium,Commodities,10700000,1,60000000,41,0
+Riccite,Commodities,5000000,4,19000000,27,0
+Aluminum,Commodities,3700000,700000,10000000,13,0
+Corundum,Commodities,2900000,250000,9000000,10,0
+Quantainium,Commodities,2200000,280000,15000000,13,274400
+Quantainium (Raw),Commodities,7000000,7000000,7500000,1,0
+UNE Gold Ingot (Pristine),Commodities,797100,100000,3500000,27,0
+UNE Silver Ingot (Pristine),Commodities,677800,350000,1000000,18,0
+JS-400,Ship components,8300000,1000000,40000000,33,3000000
+JS-500,Ship components,6700000,900000,80000000,55,24100000
+JS-300,Ship components,5700000,700000,14000000,17,0
+FR-86,Ship components,8000000,1000000,30000000,31,10300000
+FR-76,Ship components,4800000,350000,25000000,40,4300000
+FR-66,Ship components,2400000,300000,22000000,50,0
+TS-2,Ship components,5300000,390000,58000000,63,0
+XL-1,Ship components,3800000,700000,25000000,34,0
+Helix II Mining Laser,Ship components,21000000,6000000,45000000,24,0
+Helix I Mining Laser,Ship components,27600000,3000000,170000000,10,0
+Impact II Mining Laser,Ship components,18000000,8000000,28000000,2,0
+QuadraCell MT,Ship components,14000000,4500000,40000000,5,0
+QuadraCell,Ship components,5300000,1000000,12000000,7,0
+Destroyer Mass Driver Cannon,Ship components,31800000,10000000,150000000,21,0
+NDB-30 Repeater,Ship components,1300000,200000,25000000,56,237500
+Absolution Distortion Scattergun,Ship components,4000000,2000000,10000000,12,2100000
+P6-LR Sniper Rifle,Personal weapons,7600000,25000,50000000,41,0
+CQ7 Rifle,Personal weapons,5700000,3000,60000000,62,0
+Arlington Rifle,Personal weapons,1600000,100000,7000000,80,0
+Killshot Rifle,Personal weapons,3600000,500000,18000000,20,0
+P8-AR Assault Rifle,Personal weapons,4500000,400000,20000000,21,0
+Gallant Rifle,Personal weapons,8600000,2000000,50000000,12,0
+Zenith Laser Sniper Rifle,Personal weapons,6800000,100000,14000000,5,0
+FS-9 LMG,Personal weapons,6200000,235800,21000000,20,0
+Pulverizer LMG,Personal weapons,7600000,500000,20000000,21,0
+Vendetta HMG,Personal weapons,7700000,1300000,40000000,10,0
+Stoic Suppressor 2,Personal weapons,5100000,2000000,10000000,38,5000000
+Scourge Railgun,Personal weapons,916600,250000,3000000,29,0
+Novian Crossbow,Personal weapons,1500000,400000,5000000,17,0
+Demon Fang Combat Knife,Personal weapons,18200000,12500000,25000000,5,0
+Eyaja Knife,Personal weapons,2200000,1500000,3000000,5,0
+Ace Interceptor Helmet,Armor,2000000,250000,50000000,95,835100
+Geist Armor ASD Edition Set,Armor,5800000,1000000,30000000,24,0
+Geist Backpack ASD Edition,Armor,1200000,350000,2100000,8,0
+Geist Armor Snow Camo Set,Armor,6700000,2000000,10000000,26,0
+Defiance Tactical Set,Armor,12900000,3000000,50000000,12,0
+Palatino Set Necropolis,Armor,18500000,10000000,25000000,15,0
+Palatino Core Necropolis,Armor,3500000,1500000,5000000,11,0
+Palatino Helmet Necropolis,Armor,3600000,3000000,5000000,8,0
+Palatino Backpack Necropolis,Armor,4900000,1000000,8000000,15,0
+Dust Devil Epoque Set,Armor,9900000,5000000,20000000,7,0
+Corbel Crush Set,Armor,5600000,900000,10000000,17,0
+Ana Armor Wao Set,Armor,8900000,3000000,15000000,19,0
+ADP-mk4 Justified Set,Armor,32200000,8500000,75000000,12,0
+ADP-mk4 Righteous Set,Armor,40000000,10000000,70000000,4,0
+MG Scrip,Misc,5800,3000,13000,29,3700
+Council Scrip,Misc,80800,4000,250000,10,3900
+Wikelo Favor,Misc,581800,250000,2000000,44,393800
+DCHS-05 Orbital Positioning Comp-Board,Misc,1800000,850000,10000000,63,814400
+UEE 6th Platoon Medal (Pristine),Misc,1400000,275000,10000000,132,611500
+Government Cartography Agency Medal (Pristine),Misc,1000000,80000,5000000,115,240000
+Tevarin War Service Marker (Pristine),Misc,1100000,300000,10000000,99,233300
+Irradiated Valakkar Pearl (AAA),Misc,1900000,500000,3000000,49,1200000
+Irradiated Valakkar Pearl (AA),Misc,234400,50000,1000000,35,80000
+Irradiated Valakkar Fang (Apex),Misc,1300000,200000,2000000,54,844000
+Valakkar Fang (Apex),Misc,1100000,950000,1500000,18,671000
+ASD Secure Drive,Misc,329100,100000,500000,24,128600
+Polaris Bit,Misc,16800000,800000,100000000,35,5100000
+Yormandi Eye,Misc,629200,150000,1500000,13,305600
+Yormandi Tongue,Misc,594400,100000,1500000,18,86700
+Vanduul Metal,Misc,262500,100000,500000,8,112500
+Vanduul Plating,Misc,273000,100000,500000,10,116700
+Expired Quantanium Fuel Canister,Misc,2200000,1200000,3000000,9,2400000
+Large Artifact Fragment (Pristine),Misc,821500,300000,2500000,36,233300
+RCMBNT Full Set,Misc,13800000,10000000,15000000,4,8400000
+PYAM Supervisor Keycard,Misc,440000,300000,500000,5,0
+MISC Ore Pod,Misc,1600000,1500000,2000000,7,0
+Fish Tank,Misc,10000000,5000000,15000000,2,0
+Salvaged Skull 8 SCU Self-Storage Container,Misc,3800000,3500000,4000000,2,0
+Mirage,Misc,1400000,200000,12000000,19,0
+Slipstream,Misc,2600000,190000,15000000,31,0
+SnowBlind,Misc,1300000,200000,8000000,21,355000
+Blizzard,Misc,801500,150000,3000000,36,1100000
+NightFall,Misc,766800,200000,9000000,30,0
+Avalanche,Misc,620800,300000,2000000,24,150000
+Salvation Distortion Scattergun,Personal weapons,3800000,2000000,5000000,12,0
+Condemnation Distortion Scattergun,Personal weapons,3500000,1000000,5000000,3,0
+Prism Laser Shotgun,Personal weapons,3500000,3100000,4000000,2,0
+Atzkav Sniper Rifle,Personal weapons,11000000,50000,40000000,11,0
+A03 Sniper Rifle,Personal weapons,7100000,1500000,22000000,11,0
+Arrowhead Sniper Rifle,Personal weapons,12000000,150000,40000000,5,0
+Scalpel Sniper Rifle,Personal weapons,6400000,225000,40000000,14,0
+Ripper SMG,Personal weapons,2700000,500000,5500000,6,0
+C54 SMG,Personal weapons,3300000,232200,12000000,8,0
+Quartz Energy SMG,Personal weapons,1600000,80000,4500000,8,0
+S-38 Pistol,Personal weapons,1700000,900000,2500000,7,0
+F55 LMG,Personal weapons,6900000,810000,20000000,9,0
+Demeco LMG,Personal weapons,2400000,270000,5500000,5,0
+Breakneck S4 Gatling,Personal weapons,378100,200000,600000,8,0
+Parallax Energy Assault Rifle,Personal weapons,5800000,95000,15000000,8,0
+P4-AR Rifle,Personal weapons,3200000,900000,14000000,12,0
+Boomtube Rocket Launcher,Personal weapons,517900,200000,1000000,14,0
+Animus Missile Launcher,Personal weapons,1000000,350000,2500000,13,0
+Sawtooth Combat Knife,Personal weapons,292500,100000,567900,6,0
+Torrent Compensator 2,Personal weapons,3400000,400000,10000000,32,0
+Torrent Compensator1,Personal weapons,996100,400000,3000000,19,0
+Quell Suppressor2,Personal weapons,2400000,800000,6000000,28,0
+Stoic Suppressor 1,Personal weapons,1300000,500000,3500000,26,0
+Stoic Suppressor 3,Personal weapons,1100000,300000,3500000,21,0
+Vera Compensator 2,Personal weapons,2800000,400000,10000000,18,0
+HG-3 Jaeger (3x Holographic),Personal weapons,4200000,1000000,10000000,21,0
+HG-2 Jaeger (2x Holographic),Personal weapons,1600000,555000,4000000,21,0
+RD-1 Jaeger (1x Red Dot),Personal weapons,1700000,888900,4000000,22,0
+TS-25 Basara (2.5x Telescopic),Personal weapons,3000000,1000000,8000000,29,600000
+TS-35 Basara (3.5x Telescopic),Personal weapons,3700000,1000000,7000000,30,0
+Tau Plus LL (4x Telescopic),Personal weapons,854900,300000,4000000,33,0
+Meyers (4X Telescopic),Personal weapons,1500000,900000,5000000,23,0
+EE16 (16x Telescopic),Personal weapons,1900000,850000,5000000,6,0
+Theta Pro LL (8x Telescopic),Personal weapons,1200000,600000,4000000,24,0
+Lux Flashlight,Personal weapons,783700,100000,3000000,19,0
+XDL Monocular Rangefinder,Personal weapons,369500,239000,500000,2,0
+Palatino Set Moonfall,Armor,8600000,3300000,15000000,10,0
+Palatino Set Metropolis,Armor,4200000,2000000,8500000,9,0
+Palatino Set,Armor,2800000,50000,10000000,20,0
+Palatino Set Shadow Guild,Armor,8700000,6900000,12500000,5,0
+Palatino Set Mark 1,Armor,9400000,1000000,35000000,12,0
+Palatino Deadlock Set,Armor,9200000,6000000,12500000,3,0
+Palatino Set Sunstone,Armor,4500000,1800000,10000000,9,0
+Palatino Set Daystar,Armor,3000000,1600000,5000000,8,0
+Palatino Legs Necropolis,Armor,1500000,900000,2000000,9,0
+Palatino Backpack Moonfall,Armor,3100000,1000000,5000000,4,0
+Palatino Arms,Armor,1900000,1500000,2000000,6,0
+Corbel Smolder Set,Armor,1800000,650000,8000000,15,0
+Corbel Mire Set,Armor,2400000,1000000,8000000,7,0
+Corbel Halcyon Set,Armor,2200000,600000,8000000,8,0
+Dust Devil Set,Armor,9900000,400000,55000000,10,0
+Overlord Gilded Set,Armor,5300000,2000000,10000000,19,0
+Overlord Core Gilded,Armor,1900000,300000,7000000,9,400000
+Overlord Supernova Set,Armor,4600000,300000,18000000,8,0
+Overlord Cardinal Set,Armor,4000000,1000000,8000000,15,0
+Overlord Flashback Set,Armor,1900000,1000000,3000000,7,0
+Antium Storm Set,Armor,6900000,2000000,15000000,8,0
+Antium Armor full set,Armor,2800000,800000,8000000,13,0
+Antium Sand Set,Armor,8900000,2000000,15000000,4,0
+Testudo Clanguard Set,Armor,3400000,1000000,9000000,12,0
+Testudo Turfwar Set,Armor,3300000,1000000,9000000,4,0
+Sol-III full set,Armor,6100000,1500000,10000000,12,0
+Morozov-SH Crusader Edition Set,Armor,7800000,1000000,15000000,8,0
+Morozov-SH-I Pyrotechnic Set,Armor,2100000,1000000,3500000,8,0
+Ana Armor Entro Set,Armor,6900000,1800000,50000000,27,0
+Artimex Set Chairman,Armor,9000000,4500000,15000000,12,0
+Artimex Elysium Set,Armor,6000000,4000000,10000000,5,0
+Monde Set Crimson Camo,Armor,3500000,1000000,10000000,17,0
+Monde Set HighSec,Armor,5100000,4500000,6000000,3,0
+Venture Executive Set,Armor,10900000,10000000,13500000,4,0
+BUL-H4 Armor SteelTek,Armor,13700000,1000000,50000000,12,0
+BUL-H4 Helmet SteelTek,Armor,8200000,3000000,16500000,3,0
+DCP Cobalt Camo Set,Armor,1800000,800000,5000000,13,0
+ADP-mk4 Core Righteous,Armor,18000000,17000000,20000000,4,0
+ADP-mk4 Arms Righteous,Armor,6600000,3000000,20000000,11,0
+ADP-mk4 Helmet Righteous,Armor,2800000,1800000,3500000,9,0
+Oni Kiba Helmet,Armor,3600000,150000,18000000,36,0
+Shogun Kiba Helmet Stronghold,Armor,1500000,400000,6500000,32,0
+The Butcher Helmet,Armor,2700000,5000,6000000,13,0
+Berserker Helmet,Armor,780000,300000,2000000,16,0
+Azrael Racing Helmet Sapphire,Armor,1900000,1500000,2000000,4,0
+Tailwind Flight Suit,Armor,1300000,100000,3000000,5,0
+Sol-III Flight Suit Aviator,Armor,8500000,7000000,10000000,2,0
+Yaeger Aviator Glasses,Armor,1600000,500000,5000000,5,0
+Zeus Exploration Suit Starscape,Armor,2400000,900000,4000000,5,0
+NDB-28 Repeater,Ship components,2900000,500000,15000000,8,0
+NDB-26 Repeater,Ship components,2000000,300000,9000000,8,0
+Deadbolt V Cannon,Ship components,7700000,65000,50000000,11,0
+M7A Cannon,Ship components,171000,125000,250000,5,0
+Omnisky XV Cannon,Ship components,191700,150000,250000,3,0
+NN-13 Cannon,Ship components,998000,994000,1000000,3,0
+IFR-810 Missile Rack,Ship components,80000000,80000000,80000000,1,0
+Colossus Bomb,Ship components,55000,40000,80000,6,0
+MaxLift AA Support Tractor Beam,Ship components,4200000,2500000,5000000,3,0
+Abrade Scraper Module,Ship components,11200000,500000,25000000,3,0
+GP-XP Industrial Battery,Ship components,233300,200000,300000,6,0
+Glacier,Ship components,315500,200000,500000,21,0
+Spectre,Ship components,695700,100000,9000000,25,70000
+Umbra,Ship components,479800,400000,600000,16,200000
+Eclipse,Ship components,907600,250000,6500000,20,7600000
+Fulgur,Ship components,140000,50000,250000,8,0
+Hemera,Ship components,145000,120000,170000,3,0
+MegaFlux,Ship components,182200,50000,500000,9,0
+SureStop,Ship components,325000,300000,350000,4,0
+ParaMed Medical Device,Misc,816400,90000,2000000,7,0
+Specimen Cache Access: Lazarus Complex,Misc,4100000,3100000,5000000,2,525000
+Tundra Kopion Horn,Misc,158800,10000,500000,5,0
+Ranta Dung,Misc,51200,12000,100000,6,0
+Irradiated Valakkar Fang (Adult),Misc,2000000,2000000,2000000,1,0
+DCHS-06 Communication Comp-Board,Misc,238000,80000,450000,10,0
+DCHS-01 Executive Access Protocols Comp-Board,Misc,3500000,550000,7000000,4,500000
+DCHS-03 Vehicle Management Comp-Board,Misc,385000,270000,500000,2,500000
+Compboard,Misc,4000000,300000,8000000,4,0
+ASD Access Card Excavation,Misc,216700,150000,250000,3,150000
+Alignment Blade,Misc,277100,40000,1000000,7,30000
+RCMBNT-PWL-1,Misc,1500000,900000,2100000,6,4900000
+RCMBNT-XTL-1,Misc,1000000,200000,2500000,10,0
+RCMBNT-RGL-3,Misc,1400000,700000,2000000,2,700000
+Vanduul Cryopod,Misc,311900,65000,700000,8,0
+CoverAll,Misc,148600,17000,686000,12,0
